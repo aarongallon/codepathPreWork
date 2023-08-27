@@ -20,10 +20,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= file:///private/var/folders/3s/sf8w6vh57s962j6qgckz_kcw0000gn/T/46f1c9ac91fd0c45af31be4e0ce68eb2/Kapture%202023-08-27%20at%2012.09.36.gif />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
